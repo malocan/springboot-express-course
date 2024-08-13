@@ -1,10 +1,12 @@
-THIS IS BASIC SPRINGBOOT EXPRESS COURSE
+# This is basic Springboot express course
 
-IT WILL HELP YOU TO CREATE SIMPLE SPRINGBOOT APPLICATION USING REST API
+  It will help you to create simple springboot application using rest api.
+  
+  These urls and requests for all controller methods:
 
-THESE URLS AND REQUESTS FOR ALL CONTROLLER METHODS:
+## GET
 
--GET
+URLs:
 
     http://localhost:8080/all
 
@@ -17,11 +19,15 @@ THESE URLS AND REQUESTS FOR ALL CONTROLLER METHODS:
     "surname": "Malochka"
 }
 ```
--PUT
+## PUT
+
+URL:
 
     http://localhost:8080/5?email=LNMol@mail.ru&salary=23000
 
--POST
+## POST
+
+URL:
 
     http://localhost:8080/new
 
@@ -34,6 +40,8 @@ THESE URLS AND REQUESTS FOR ALL CONTROLLER METHODS:
     "dateOfBirth": "1988-06-11"
 }
 ```
--DELETE
+## DELETE
+
+URL:
 
     http://localhost:8080/5
