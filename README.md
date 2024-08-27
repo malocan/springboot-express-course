@@ -1,8 +1,13 @@
-# This is basic Springboot express course
+# This is basic Springboot express course for beginners
 
-  It will help you to create simple springboot application using rest api.
+  It will help you to create simple Spring Boot application using REST API 
+  and review the work of common used annotations.
+
+  Start your analisys from Controller class and go deeper into next layers.
+
+  P.S.: Make sure that you build your application first with `mvn clean process-resourses` status should be SUCCESS.
   
-  These urls and requests for all controller methods:
+  There are urls and requests for all controller methods:
 
 ## GET
 
